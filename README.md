@@ -2,7 +2,7 @@
 
 I'm **Marc Vergères**, a passionate developer and IT project manager in training.  
 Currently pursuing a **Bachelor in Business Information Technology** at HES-SO Valais/Wallis, I also hold a **Bachelor in Business Administration**.  
-This unique combination allows me to bridge **management and economics** with **software development skills**, and to build useful, well-designed digital solutions !
+This unique combination allows me to bridge **management and economics** with **software development skills**, and to build useful, well-designed digital solutions — from data-driven apps to modern web interfaces.  
 
 ---
 
@@ -23,7 +23,7 @@ This unique combination allows me to bridge **management and economics** with **
 
 ---
 
-## 📌 Highlighted Public Project  
+## 📌 Highlighted Project  
 
 🔹 **[Data4Democracy](https://github.com/MvUltimate/data4Democracy)**  
 Civic assistant built with **Python + Streamlit**, designed to explore Swiss public documents with a clean web interface.  
@@ -33,4 +33,9 @@ Civic assistant built with **Python + Streamlit**, designed to explore Swiss pub
 ## 🌐 Connect with me  
 
 [![Portfolio](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.marcvergeres.ch)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcvergeres)  
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/Mv_Ultimate)  
+
+---
+
+⭐️ *“Turning ideas into impactful digital solutions.”*
