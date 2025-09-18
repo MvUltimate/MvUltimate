@@ -64,7 +64,13 @@ Curious and adaptable, I enjoy turning ideas into **useful, well-designed digita
 ## 📌 Highlighted Project  
 
 🔹 **[Data4Democracy](https://github.com/MvUltimate/data4Democracy)**  
-Civic assistant built with **Python + Streamlit**, designed to explore Swiss public documents with a clean web interface.  
+Civic assistant built with **Python + Streamlit**, designed to explore Swiss public documents with a clean web interface.
+
+🔹 **[Java - Twint-like System](https://github.com/Yannchri/Collaborative_Programming_Java)**  
+This Java-developed project establishes communication between a server and a client acting like a Twint System.
+
+🔹 **[Data4Democracy](https://github.com/MvUltimate/data4Democracy)**  
+A full-stack .NET school management system with MVC front-end, REST API, and database layer.
 
 ---
 
